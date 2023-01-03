@@ -20,7 +20,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ### :woman_technologist: About Me :
+
 I am an experienced IT enthusiast with a deep understanding of both hardware and software.
 My area of expertise is software development for web apps, mobile applications, and APIs,
 utilizing Python, Dart, and JavaScript as solution tools. I am a trustworthy individual dedicated
