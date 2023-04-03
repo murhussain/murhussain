@@ -1,4 +1,4 @@
-# Hi there, I'm [MURASHI Hussein] 👋
+# Hi there, I'm MURASHI Hussein 👋
 
 ## 💻 About Me
 
