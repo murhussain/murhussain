@@ -13,8 +13,9 @@ planning, analysis, design, testing, and security of software products.
 Here are a few technologies that I've been working with recently:
 
 - **Languages:** Python, JavaScript, TypeScript, Dart
-- **Frontend:** React-JS, Vue-JS
-- **Backend:** Python Django
+- **Frontend Dev:** React-JS, Vue-JS
+- **Backend Dev:** Python Django
+- **Mobile Dev:** Flutter
 
 ## 📫 Contact Me
 
