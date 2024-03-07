@@ -2,11 +2,11 @@
 
 ## 💻 About Me
 
-I am an experienced IT enthusiast with a deep understanding of both hardware and software.
-My area of expertise is software development for web apps, mobile applications, and APIs,
-utilizing Python, Dart, and JavaScript as solution tools. I am a trustworthy individual dedicated
-to adopting industry-standard security measures and creating major advances in the
-planning, analysis, design, testing, and security of software products.
+A dedicated and technically skilled information technology specialist with a solid foundation in
+software development and cybersecurity. Proven ability to lead teams in high-pressure environments
+and deliver innovative solutions on time. Committed to leveraging technical expertise to contribute
+to the success of dynamic tech teams, with a keen interest in continuous learning and professional
+development.
 
 ## 🛠️ Tech Stack
 
