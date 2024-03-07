@@ -16,6 +16,7 @@ Here are a few technologies that I've been working with recently:
 - **Frontend Dev:** React-JS, Vue-JS
 - **Backend Dev:** Python Django
 - **Mobile Dev:** Flutter
+- **CSS Frameworks:** TailwindCSS, Material UI, and Bootstrups
 
 ## 📫 Contact Me
 
