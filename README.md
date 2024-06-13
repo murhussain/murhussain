@@ -13,8 +13,8 @@ development.
 Here are a few technologies that I've been working with recently:
 
 - **Languages:** Python, JavaScript, TypeScript, Dart
-- **Frontend Dev:** React-JS, Vue-JS
-- **Backend Dev:** Python Django
+- **Frontend Dev:** React.js, Vue.js
+- **Backend Dev:** Python Django & FastAPI
 - **Mobile Dev:** Flutter
 - **CSS Frameworks:** TailwindCSS, Material UI, and Bootstrup
 
